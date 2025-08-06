@@ -24,8 +24,6 @@ interface Schedule {
 }
 
 export default function ClassSchedules() {
-	const role = 'Administrator';
-
 	const schedules = [
 		{
 			level: '10',
